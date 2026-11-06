@@ -66,13 +66,3 @@
 </div>
 
 ###
-
-<h1 data-importer="text" align="center">Activity Graph 📈</h1>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/P-Alan/P-Alan/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
