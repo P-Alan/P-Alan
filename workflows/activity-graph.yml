@@ -1,14 +1,14 @@
 name: Update Activity Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
+        uses: maurodesouza/github-readme-activity-graph-action@v2
         with:
           username: ${{ github.repository_owner }}
           options: radius=16&theme=high-contrast&area=true&hide_border=true&hide_title=true
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push activity-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: activity-graph-output
           build_dir: dist
