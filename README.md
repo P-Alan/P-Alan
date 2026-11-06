@@ -20,13 +20,13 @@ Creating new things with software, hardware and creativity.
 
 <img align="right" src="./assets/image_git_about.jpg" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+**Alan**, Here - a computer science student, focused on backend development and creating inovations to solve peoples problems.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+I enjoy to use my creativity to create thing in general, and also learning how does code and hardware work in a deep way.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+Currently I'm learning data base, game development, and cybersecurity, while always working on a practical project to put what I study into practice.
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+My goal is to create thing that add to people lifes, either by simply making their day easier or developing projects that can change their lifes.
 
 <br clear="right"/>
 
