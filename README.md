@@ -6,6 +6,10 @@
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Creating+The+New;%3E+Inovating+And+Upgrading; alt="Typing SVG" />
 </p>
 
+<p align="center">
+Creating new things with software, hardware and creativity.
+</p>
+
 ###
 
 <h1 data-importer="text" align="center">About Me !!  📚</h1>
