@@ -14,7 +14,17 @@ Creating new things with software, hardware and creativity.
 
 <h1 data-importer="text" align="center">About Me !!  📚</h1>
 
-<img align="right" src="./assets/image.git.about.jpg" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/image_git_about.jpg" width="280" alt="Developer Illustration"/>
+
+**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+
+Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+<br clear="right"/>
 
 ###
 
