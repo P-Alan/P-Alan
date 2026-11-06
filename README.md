@@ -20,7 +20,7 @@ Creating new things with software, hardware and creativity.
 
 <img align="right" src="./assets/image_git_about.jpg" width="280" alt="Developer Illustration"/>
 
-**Alan**, Here - a computer science student, focused on backend development and creating inovations to solve peoples problems.
+**Alan**, Here - a computer science student, focused on backend development and creating inovations to solve peoples problems, either throug hardware or software.
 
 I enjoy to use my creativity to create thing in general, and also learning how does code and hardware work in a deep way.
 
