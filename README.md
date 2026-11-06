@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner_git_readme.png" alt="Banner" width="80%">
+</p>
+
 <h1 data-importer="text" align="center">Hello There !! 👋</h1>
 
 <h3 data-importar="text" align="center"> === Alan === </h4>
