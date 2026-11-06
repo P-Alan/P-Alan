@@ -14,6 +14,8 @@ Creating new things with software, hardware and creativity.
 
 <h1 data-importer="text" align="center">About Me !!  📚</h1>
 
+<img align="right" src="./assets/image.git.about.jpg" width="280" alt="Developer Illustration"/>
+
 ###
 
 <h1 data-importer="text" align="center">Contact Me 📞</h1>
