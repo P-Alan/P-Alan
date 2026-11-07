@@ -37,10 +37,21 @@ My goal is to create thing that add to people lifes, either by simply making the
 ###
 
 <div data-importer="socials" align="center">
+<a href="https://www.linkedin.com/in/pedro-alan-pereira-464970382/">  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+<a href="https://www.instagram.com/all.rbsc/"
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+  <a href="https://oficina-do-bolo.itch.io/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
+  </a>
+  <a href="mailto:pereiraacaciopedroalan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://github.com/P-Alan">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
 </div>
 
 ###
